@@ -1,0 +1,9 @@
+[font]
+normal = { family = "Fira Code", style = "Regular" }
+size = 16
+
+[window]
+dynamic_padding = true
+
+[general]
+import = [ "~/.config/alacritty/theme.toml" ]
