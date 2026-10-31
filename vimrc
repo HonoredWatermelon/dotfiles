@@ -20,4 +20,5 @@ set noswapfile
 syntax off
 hi Normal ctermfg=none ctermbg=none
 hi LineNr ctermfg=none ctermbg=none
+hi WildMenu ctermfg=none ctermbg=none
 hi StatusLine ctermfg=none ctermbg=none
